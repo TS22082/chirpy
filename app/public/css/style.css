@@ -1,0 +1,34 @@
+.chirp {
+  padding: 10px;
+  margin: 10px;
+  background-color: #e8f9ff;
+}
+
+.jumbotron {
+  font-family: Shrikhand, cursive;
+  color: white;
+  background-color: #1da1f2;
+}
+
+.cool-text {
+  font-family: Shrikhand, cursive;
+  color: #1da1f2;
+}
+
+.btn {
+  font-family: Shrikhand;
+  letter-spacing: 1px;
+  border-color: #1da1f2;
+  color: #1da1f2;
+  background-color: white;
+}
+
+.card-custom {
+  background-color: #1da0f260;
+  border: none;
+}
+
+.btn:hover {
+  color: white;
+  background-color: #1da1f2;
+}
